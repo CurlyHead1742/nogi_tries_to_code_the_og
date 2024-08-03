@@ -1,19 +1,17 @@
-img 
-{border-radius:100px 50px 100px 50px;}
-h2 
-{font-size: 18px;}
+img {border-radius:150px 100px 150px 100px;padding: 69px;} 
+h2 {font-size: 18px;}
 body
  {background-color:rgba(31, 4, 28, 0.836);
 font-family:trebuchet MS;
 color:rgb(0, 0, 0);
 text-align: center;}
-button{background-color: white; align-items: center;
-font-size: 20px;
+.button{background-color: white; align-items: center;
+font-size: 10px;
 border-radius: 10px;
 padding: 10px;
 display: block;
 text-align: center;
-margin: 0px 0px 0px 0px;
+margin: 30px 10px 30px 10px;
 color: rgb(17, 10, 63);}
 .Top_Bar { display: flex; align-items: center; padding: 10px 20px;
  color: lightblue; background-color: rgb(51, 24, 146); 
