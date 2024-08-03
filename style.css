@@ -3,15 +3,18 @@ img
 h2 
 {font-size: 18px;}
 body
- {background-color:slateblue;
+ {background-color:rgba(31, 4, 28, 0.836);
 font-family:trebuchet MS;
-color:lightBlue;
+color:rgb(0, 0, 0);
 text-align: center;}
-button{background-color: white;
+button{background-color: white; align-items: center;
 font-size: 20px;
 border-radius: 10px;
 padding: 10px;
 display: block;
 text-align: center;
-margin: 40px 80px 40px 80px;
-color: slateblue;}
+margin: 0px 0px 0px 0px;
+color: rgb(17, 10, 63);}
+.Top_Bar { display: flex; align-items: center; padding: 10px 20px;
+ color: lightblue; background-color: rgb(51, 24, 146); 
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 010.10);}
