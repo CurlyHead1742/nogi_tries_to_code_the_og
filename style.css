@@ -1,18 +1,15 @@
-img {border-radius:150px 100px 150px 100px;padding: 69px;} 
+img {border-radius:150px 100px 150px 100px;padding: 30px;} 
+
 h2 {font-size: 18px;}
-body
- {background-color:rgba(31, 4, 28, 0.836);
-font-family:trebuchet MS;
-color:rgb(0, 0, 0);
-text-align: center;}
-.button{background-color: white; align-items: center;
-font-size: 40px;
-border-radius: 10px;
-padding: 10px;
-display: block;
-text-align: center;
-margin: 30px 10px 30px 10px;
+
+body {background-color:rgba(105, 108, 171, 0.836); font-family:trebuchet MS;
+color:rgba(112, 8, 182, 0.53); text-align: center;}
+
+.button{align-items: center; font-size: 30px;
+ border-radius: 10px; padding: 30px; display: block;
+  text-align: center; margin: 30px 10px 30px 10px;
 color: rgb(17, 10, 63);}
+
 .Top_Bar { display: flex; align-items: center; padding: 10px 20px;
  color: lightblue; background-color: rgb(51, 24, 146); 
  box-shadow: 0 4px 6px rgba(0, 0, 0, 010.10);}

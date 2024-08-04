@@ -1,3 +1,8 @@
 h1 {color: blue; text-align: center;}
-p {background-color: aqua; border: solid ;text-align: center;}
 
+p{background-color: aqua; border: solid ;text-align: center;
+    height: 30px; width: 250px;}
+
+button{background-color: rgb(155, 139, 209);}
+
+body{background-color: rgb(207, 185, 208);}
